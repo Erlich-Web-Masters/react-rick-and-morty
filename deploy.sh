@@ -22,6 +22,6 @@ git commit -m 'deploy'
 
 # if you are deploying to https://<USERNAME>.github.io/<REPO>
 
-git push -f git@github.com:Erlich-Web-Masters/react-rick-and-morty-api.git main:gh-pages
+git push -f git@github.com:Erlich-Web-Masters/react-rick-and-morty.git main:gh-pages
 
 cd -
